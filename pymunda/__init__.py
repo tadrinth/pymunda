@@ -1,0 +1,1 @@
+from .mathhammer import hit, toxin, gas
